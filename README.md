@@ -1,3 +1,11 @@
+
+
+# How to Setup Claude Project
+
+[Step-by-Step Instructions](https://example.com)
+
+# Instructions for Claude Project
+
 I want you to create a **fully functional n8n workflow JSON**—no images or screenshots, only valid JSON. Follow these instructions precisely:
 
 1. **Reference All Knowledge Base Files**  
@@ -39,3 +47,21 @@ I want you to create a **fully functional n8n workflow JSON**—no images or scr
    - No extraneous commentary outside the code block.  
 
 **Your goal**: Provide a single, self-contained JSON file that can be pasted into n8n, representing a chat-to-AI-agent flow with relevant tools and sticky notes, referencing the knowledge base for best practices. If any node is unclear or not in your knowledge base, list those nodes first and request guidance. Otherwise, produce the final JSON as requested.
+
+---------------------------
+## Key Files for Knowledge Base
+
+- [n8n_Tips_and_Tricks.txt](https://github.com/MobinMithun/Claude-Project-to-n8n-Workflow/blob/main/n8n_Tips_and_Tricks.txt)
+- [n8n Cheat Sheet Guide.pdf](https://github.com/MobinMithun/Claude-Project-to-n8n-Workflow/blob/main/n8n%20Cheat%20Sheet%20Guide.pdf)
+
+## Link to Hundreds of n8n Workflows
+
+- [n8n Workflows](https://github.com/MobinMithun/Claude-Project-to-n8n-Workflow/tree/main/n8n%20workflows)
+
+## Unique Node List from Those Workflows
+
+- [ALL_Unique_Nodes.txt](V)
+
+## Link to Google Colab used to Extract Unique Nodes
+
+- [Python Code (just enter API key)](https://github.com/MobinMithun/Claude-Project-to-n8n-Workflow/blob/main/n8n_json_parser_packages_public.ipynb)  
