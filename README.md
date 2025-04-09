@@ -63,7 +63,7 @@ I want you to create a **fully functional n8n workflow JSON**—no images or scr
 
 ## Unique Node List from Those Workflows
 
-- [ALL_Unique_Nodes.txt](V)
+- [ALL_Unique_Nodes.txt](https://github.com/MobinMithun/Claude-Project-to-n8n-Workflow/blob/main/ALL_unique_nodes.txt)
 
 ## Link to Google Colab used to Extract Unique Nodes
 
