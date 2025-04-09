@@ -2,7 +2,10 @@
 
 # How to Setup Claude Project
 
-[Step-by-Step Instructions](https://example.com)
+[Step-by-Step Instructions](https://scribehow.com/viewer/Creating_an_n8n_Workflow_JSON_Project_Guide__zm-2R4ibQdCZ2XSywN-Aow)
+
+![Example GIF](https://github.com/MobinMithun/Claude-Project-to-n8n-Workflow/blob/main/Media/n8n%20workflows.gif)
+---------------------------
 
 # Instructions for Claude Project
 
